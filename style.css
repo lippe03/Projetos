@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&display=swap');
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+background-image: url(IMAGENS/Design\ sem\ nome\ \(7\).png);
+}
+header{background-color: #5c3921;
+padding: 20px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+color: white;
+}
+.links2{
+color: white;
+text-decoration: none;
+padding: 20px;
+
+}
+.links3:hover{
+background-color: #5a3921;
+color: #ffffff;
+}
+#link3{
+background-color: #d1956a;
+border-radius: 20px;
+}
+.imagem2{
+width: 1280px;
+height: 480px;
+border-bottom: 2px white solid;
+}
+main{
+justify-content: space-between;
+align-items: center;
+}
+.loc{
+margin-top: 40px;
+margin-left: 20px;
+
+}
+#h2loc{
+color: #ffffff;
+font-family: 'Open Sans', sans-serif;
+}
+#img5{
+box-shadow: 2px 5px 15px rgba(0, 0, 0, 0.199);
+border-radius: 10px;
+}
+.loc{
+display: flex;
+flex-direction: row;
+display: flex;
+display: flex;
+justify-content: space-between;
+gap: 30px;
+}
+.restaurante{
+display: flex;
+flex-direction: column;
+}
+form{
+display: flex;
+flex-direction: column;
+display: flex;
+}
+.reserva{
+background-color:#5a3921 ;
+border-radius: 10px;
+padding: 10px;
+width: 25em;
+height: 480px;
+
+}
+.reserva1{
+width: 30em;
+height: 60px;
+border: none;
+border-radius: 10px;
+background-color:   #e7d7cc;
+
+}
+.reserva2{
+font-family: 'Inter', sans-serif;
+color: white;
+}
+#date-time{
+color: rgb(119, 115, 113);
+width: 30em;
+}
+.botao5{
+margin-top: 20px;
+
+width: 14em;
+height: 60px;
+border: none;
+background-color: #d1956a;
+border-radius: 10px;
+box-shadow: 2px 5px 15px rgba(0, 0, 0, 0.281);
+font-family: 'Inter', sans-serif ;
+color: white;
+font-weight: bold;
+cursor: pointer;
+}
+.cardapio23{
+width: 400px;
+border-radius: 10px;
+box-shadow: 2px 5px 15px rgba(0, 0, 0, 0.274);
+}
+.right{
+margin-right: 10em;
+}
+footer{
+    margin-top: 40px;
+background-color: #2b1d14;
+color: white;
+font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.linkrodapé{
+text-decoration: none;
+color: white;
+font-family: 'Open Sans', sans-serif;
+display: flex;
+flex-direction: column;
+font-weight: bolder;
+padding: 7px;
+
+}
+.h3rodapé{
+font-size: 30px;
+}
+.prodapé{
+font-size: 20px;
+}
+.footer2{
+margin-left: 20px;
+}
+
+
